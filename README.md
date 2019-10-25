@@ -12,3 +12,8 @@ Test the master without using SSDmaster library
 
 # dummyslave:
 Check output at slave using serial monitor for debugging and quick testing.
+
+# Project details:
+https://www.hackster.io/pankajkumar703/seven-segment-display-driver-using-atmega328-e94f15
+# Demonstration:
+https://www.youtube.com/watch?v=Ja7PUw19L44
