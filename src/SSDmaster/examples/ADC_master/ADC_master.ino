@@ -1,3 +1,10 @@
+/*
+  ADC_master
+  @Author: pankajpatro703
+  Reads ADC value and sends it to a SSD driver for displaing on an SSD display.
+  This example code is in the public domain.
+*/
+
 #include <Wire.h>
 #include <SSDmaster.h>
 
